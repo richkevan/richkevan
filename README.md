@@ -2,14 +2,5 @@
      alt="header"
      style="float: left; margin-right: 10px;" />
 
-##### FreeCodeCamp(🔥) Certifications
-- [Responsive Web Design 300 hours](https://www.freecodecamp.org/certification/richkevan/responsive-web-design)
-- [JavaScript Algorithms and Data Structures 300 hours](https://www.freecodecamp.org/certification/richkevan/javascript-algorithms-and-data-structures)
-
-### Education
-
-##### #VetsWhoCode
-#VetsWhoCode Is a Non-ForProfit where veterans teach veterans how to program and get jobs.
-
-#####  Kenzie Academy
-Kenzie boasts a new kind of education for those looking to level up their tech and soft skills and prepare for the future of work.
+### My Passions
+I am extremely passionate about two things. The outdoors and technology. When I have the chance to combine the two it makes for a great day.
