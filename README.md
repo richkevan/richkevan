@@ -1,10 +1,5 @@
-# Rich Kevan
-
-### Accomplishments
-
-##### Codewars 6th Kyu
-<img src="https://www.codewars.com/users/richkevan/badges/large"
-     alt="Code Wars Kyu"
+<img src="media/title.gif"
+     alt="header"
      style="float: left; margin-right: 10px;" />
 
 ##### FreeCodeCamp(🔥) Certifications
