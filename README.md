@@ -1,4 +1,4 @@
-<img src="./media/title.gif"
+<img src="https://github.com/richkevan/richkevan/blob/master/media/title.gif"
      alt="header"
      style="float: left; margin-right: 10px;" />
 
