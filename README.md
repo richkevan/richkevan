@@ -1,10 +1,13 @@
 # Rich Kevan
 
 ### My Languages & Libraries
+<img src="./media/html5.svg" width="48">
+<img src="./media/css3.svg" width="48">
 <img src="./media/python.svg" width="48">
 <img src="./media/django.svg" width="48">
 <img src="./media/javascript.svg" width="48">
 <img src="./media/react.svg" width="48">
+<img src="./media/redux.svg" width="48">
 <img src="./media/nodedotjs.svg" width="48">
 <img src="./media/express.svg" width="48">
 
