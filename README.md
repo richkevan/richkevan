@@ -1,7 +1,7 @@
 # Rich Kevan
 
 ### My Languages & Libraries
-<img src="./media/html5.svg" width="48" display="inline">
+<br><img src="./media/html5.svg" width="48" display="inline">
 <img src="./media/css3.svg" width="48" display="inline">
 <img src="./media/python.svg" width="48" display="inline">
 <img src="./media/django.svg" width="48" display="inline"> <br>
