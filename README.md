@@ -7,6 +7,9 @@ Some of my hobbies include
 - Outdoors :camping: :diving_mask: :flying_disc: :climbing_man: :rowing_man:  
 - Games :black_joker: :chess_pawn: :game_die: :jigsaw:
 - Fitness :weight_lifting_man: :lotus_position_man: :running_man:
+
+I share my time and my passions with my fiance and 2 daughters :family_man_woman_girl_girl:
+
 ### My Languages & Libraries
 <br><img src="./media/html5.svg" width="48" display="inline">
 <img src="./media/css3.svg" width="48" display="inline">
