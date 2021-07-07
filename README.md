@@ -2,7 +2,7 @@
 
 ---
 ### About Me
-Thanks for checking out my Github. As you might have guessed I'm Rich and am a application/web engineer and amateur designer.
+Thanks for checking out my Github. As you might have guessed I'm Rich and am a application/web engineer and amateur designer. I am from Oregon(GO :duck:) but live in the San Francisco Bay Area :bridge_at_night:  
 Some of my hobbies include  
 - Video Games :video_game: :joystick:  
 - Outdoors :camping: :diving_mask: :flying_disc: :climbing_man: :rowing_man:  
