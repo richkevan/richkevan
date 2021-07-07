@@ -12,7 +12,7 @@
 <img src="./media/express.svg" width="48" display="inline">
 
 ### Follow Me
-<img src="./media/linkedin.svg" width="48">](https://www.linkedin.com/in/rich-kevan/)
+[<img src="./media/linkedin.svg" width="48">](https://www.linkedin.com/in/rich-kevan/)
 [<img src="./media/twitter.svg" width="48">](https://twitter.com/intent/follow?screen_name=richkevan)
 [<img src="./media/twitch.svg" width="48">](https://www.twitch.tv/richkevan)
 [<img src="./media/devdotto.svg" width="48">](https://dev.to/richkevan)
