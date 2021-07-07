@@ -12,15 +12,18 @@ Some of my hobbies include
 I share my time and my passions with my fiance and 2 daughters :family_man_woman_girl_girl:
 
 ### My Languages & Libraries
-*Frontend*
+
+**Frontend**
 | HTML5 | CSS3 | Javascript | React | Redux |
 |---|---|---|---|---|
 |<img src="./media/html5.svg" width="48">|<img src="./media/css3.svg" width="48">|<img src="./media/javascript.svg" width="48">|<img src="./media/react.svg" width="48">|<img src="./media/redux.svg" width="48">|  
-*Backend*
+
+**Backend**
 | Node.JS | Express.JS  | Python | Django |
 |---|---|---|---|
 |<img src="./media/nodedotjs.svg" width="48">   |<img src="./media/express.svg" width="48">   |<img src="./media/python.svg" width="48">   |<img src="./media/django.svg" width="48">   |  
-*Database*
+
+**Database**
 | SQL  | SQLite  | PostgreSQL  | Mongo  |
 |---|---|---|---|---|
 |<img src="./media/microsoftsqlserver.svg" width="48">   |<img src="./media/sqlite.svg" width="48">   |<img src="./media/postgresql.svg" width="48">   |<img src="./media/mongodb.svg" width="48">   |
