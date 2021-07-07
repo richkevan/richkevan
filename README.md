@@ -1,4 +1,4 @@
-<img src="./media/avatar.svg" width="800" display="inline">
+<img src="./media/avatar.svg" width="800" display="inline" margin="auto">
 
 ### My Languages & Libraries
 <br><img src="./media/html5.svg" width="48" display="inline">
