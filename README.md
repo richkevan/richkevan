@@ -1,7 +1,7 @@
 <img src="./media/avatar.svg" width="800" display="inline" margin="auto">
 
 ### My Languages & Libraries
-<br><img src="./media/html5.svg" width="48" display="inline">
+<br><img src="./media/html5.svg" width="48" display="inline">HTML 5
 <img src="./media/css3.svg" width="48" display="inline">
 <img src="./media/python.svg" width="48" display="inline">
 <img src="./media/django.svg" width="48" display="inline"> <br>
