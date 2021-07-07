@@ -1,5 +1,6 @@
 <img src="./media/avatar.svg" width="800" display="inline" margin="auto">
 
+---
 ### About Me
 Thanks for checking out my Github. As you might have guessed I'm Rich and am a application/web engineer and amateur designer.
 Some of my hobbies include  
