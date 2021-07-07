@@ -1,5 +1,9 @@
 <img src="./media/avatar.svg" width="800" display="inline" margin="auto">
 
+### About Me
+Thanks for checking out my Github. As you might have guessed I'm Rich and am a application/web engineer and amateur designer.
+Some of my hobbies include video games :video_game: :joystick: outdoors :camping: :divingmask: :flying_disc: :climbing_man: :rowing_man:
+
 ### My Languages & Libraries
 <br><img src="./media/html5.svg" width="48" display="inline">
 <img src="./media/css3.svg" width="48" display="inline">
