@@ -12,15 +12,16 @@ Some of my hobbies include
 I share my time and my passions with my fiance and 2 daughters :family_man_woman_girl_girl:
 
 ### My Languages & Libraries
-<br><img src="./media/html5.svg" width="48" display="inline">
-<img src="./media/css3.svg" width="48" display="inline">
-<img src="./media/python.svg" width="48" display="inline">
+| HTML5 | CSS3 | Javascript | React | Redux |
+|---|---|---|---|---|
+|<img src="./media/html5.svg" width="48" display="inline">|<img src="./media/css3.svg" width="48" display="inline">|<img src="./media/javascript.svg" width="48" display="inline">|<img src="./media/react.svg" width="48" display="inline">|<img src="./media/redux.svg" width="48" display="inline">
 <img src="./media/django.svg" width="48" display="inline"> <br>
-<img src="./media/javascript.svg" width="48" display="inline">
-<img src="./media/react.svg" width="48" display="inline">
-<img src="./media/redux.svg" width="48" display="inline">
+
+
+
 <img src="./media/nodedotjs.svg" width="48" display="inline">
 <img src="./media/express.svg" width="48" display="inline">
+<img src="./media/python.svg" width="48" display="inline">
 
 ### Follow Me
 [<img src="./media/linkedin.svg" width="48">](https://www.linkedin.com/in/rich-kevan/)
