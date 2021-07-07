@@ -3,9 +3,10 @@
 ### About Me
 Thanks for checking out my Github. As you might have guessed I'm Rich and am a application/web engineer and amateur designer.
 Some of my hobbies include  
-video games :video_game: :joystick:  
-outdoors :camping: :diving_mask: :flying_disc: :climbing_man: :rowing_man:  
-
+- Video Games :video_game: :joystick:  
+- Outdoors :camping: :diving_mask: :flying_disc: :climbing_man: :rowing_man:  
+- Games :black_joker: :chess_pawn: :game_die: :jigsaw:
+- Fitness :weight_lifting_man: :lotus_position_man: :running_man:
 ### My Languages & Libraries
 <br><img src="./media/html5.svg" width="48" display="inline">
 <img src="./media/css3.svg" width="48" display="inline">
