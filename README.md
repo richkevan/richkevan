@@ -15,11 +15,11 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 *Frontend*
 | HTML5 | CSS3 | Javascript | React | Redux |
 |---|---|---|---|---|
-|<img src="./media/html5.svg" width="48">|<img src="./media/css3.svg" width="48">|<img src="./media/javascript.svg" width="48">|<img src="./media/react.svg" width="48">|<img src="./media/redux.svg" width="48">
+|<img src="./media/html5.svg" width="48">|<img src="./media/css3.svg" width="48">|<img src="./media/javascript.svg" width="48">|<img src="./media/react.svg" width="48">|<img src="./media/redux.svg" width="48">|  
 *Backend*
 | Node.JS | Express.JS  | Python | Django |
 |---|---|---|---|
-|<img src="./media/nodedotjs.svg" width="48">   |<img src="./media/express.svg" width="48">   |<img src="./media/python.svg" width="48">   |<img src="./media/django.svg" width="48">   |
+|<img src="./media/nodedotjs.svg" width="48">   |<img src="./media/express.svg" width="48">   |<img src="./media/python.svg" width="48">   |<img src="./media/django.svg" width="48">   |  
 *Database*
 | SQL  | SQLite  | PostgreSQL  | Mongo  |
 |---|---|---|---|---|
