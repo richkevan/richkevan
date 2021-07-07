@@ -1,4 +1,4 @@
-<img src="./media/avatar.svg" width="75"># Rich Kevan
+<img src="./media/avatar.svg" width="75" display="inline"># Rich Kevan
 
 ### My Languages & Libraries
 <br><img src="./media/html5.svg" width="48" display="inline">
