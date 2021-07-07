@@ -1,7 +1,7 @@
-<img src="./media/avatar.svg" width="75" display="inline"># Rich Kevan
+<img src="./media/avatar.svg" width="" display="inline"># Rich Kevan
 
 ### My Languages & Libraries
-<br><img src="./media/html5.svg" width="48" height="48" display="inline">
+<br><img src="./media/html5.svg" width="48" display="inline">
 <img src="./media/css3.svg" width="48" display="inline">
 <img src="./media/python.svg" width="48" display="inline">
 <img src="./media/django.svg" width="48" display="inline"> <br>
