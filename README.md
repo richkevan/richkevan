@@ -1,4 +1,4 @@
-<img src="./media/avatar.svg" width="800">
+<img src="./media/avatar.png" width="800">
 
 ---
 > ### :information_desk_person: -About Me
