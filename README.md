@@ -1,7 +1,7 @@
 <img src="./media/avatar.svg" width="800" display="inline" margin="auto">
 
 ---
-> ### :name_badge: About Me
+> ### :information_desk_person: -About Me
 Thanks for checking out my Github. As you might have guessed I'm Rich and am a application/web engineer and amateur designer. I am from Oregon(GO :duck:) but live in the San Francisco Bay Area :bridge_at_night:  
 Some of my hobbies include  
 - Video Games :video_game: :joystick:  
@@ -11,7 +11,7 @@ Some of my hobbies include
 
 I share my time and my passions with my fiance and 2 daughters :family_man_woman_girl_girl:
 
-> ### :wrench: My Languages & Libraries
+> ### :wrench: -My Languages & Libraries
 
 **Frontend**
 | HTML5 | CSS3 | Javascript | React | Redux |
@@ -33,7 +33,7 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 
 
 
-> ### :newspaper: Follow Me
+> ### :newspaper: -Follow Me
 [<img src="./media/linkedin.svg" width="48">](https://www.linkedin.com/in/rich-kevan/)
 [<img src="./media/twitter.svg" width="48">](https://twitter.com/intent/follow?screen_name=richkevan)
 [<img src="./media/twitch.svg" width="48">](https://www.twitch.tv/richkevan)
