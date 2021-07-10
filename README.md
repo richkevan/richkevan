@@ -35,6 +35,3 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 [<img src="./media/devdotto.svg" width="48">](https://dev.to/richkevan)
 
 
-> ## :dollar: :credit_card: If You enjoyed my work and just want to support my work please consider donating
-
-[<img src="./media/venmo.JPG" width="200">](https://venmo.com/Rich-Kevan)
