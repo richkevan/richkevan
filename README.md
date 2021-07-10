@@ -28,13 +28,13 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 |---|---|---|---|
 |<img src="./media/microsoftsqlserver.svg" width="48">|<img src="./media/sqlite.svg" width="48">|<img src="./media/postgresql.svg" width="48">|<img src="./media/mongodb.svg" width="48">|
 
-
-
-
-
-
 > ### :newspaper: -Follow Me
 [<img src="./media/linkedin.svg" width="48">](https://www.linkedin.com/in/rich-kevan/)
 [<img src="./media/twitter.svg" width="48">](https://twitter.com/intent/follow?screen_name=richkevan)
 [<img src="./media/twitch.svg" width="48">](https://www.twitch.tv/richkevan)
 [<img src="./media/devdotto.svg" width="48">](https://dev.to/richkevan)
+
+
+> ## :dollar: :credit_card:
+## If You enjoyed my work and just want to support my work please consider donating##
+[<img src="./media/venmo.JPG" width="48">](https://venmo.com/Rich-Kevan)
