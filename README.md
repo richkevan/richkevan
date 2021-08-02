@@ -1,7 +1,7 @@
 <img src="./media/avatar.png" width="800">
 
 ---
-> # :information_desk_person: -About Me
+> # :information_desk_person: About Me
 Thanks for checking out my Github. As you might have guessed I'm Rich and am a application/web engineer and amateur designer. I am from Oregon(GO :duck:) but live in the San Francisco Bay Area :bridge_at_night:  
 Some of my hobbies include  
 - Video Games :video_game: :joystick:  
@@ -11,24 +11,24 @@ Some of my hobbies include
 
 I share my time and my passions with my fiance and 2 daughters :family_man_woman_girl_girl:
 
-> # :wrench: -My Languages & Libraries
+> # :wrench: My Languages & Libraries
 
-**Frontend**
+### Frontend
 | HTML5 | CSS3 | Javascript | React | Redux | Gatsby | Angular |
 |---|---|---|---|---|---|---|
-|<img src="./media/html5.svg" width="48">|<img src="./media/css3.svg" width="48">|<img src="./media/javascript.svg" width="48">|<img src="./media/react.svg" width="48">|<img src="./media/redux.svg" width="48">|<img src="./media/gatsby.svg" width=48> |<img src="./media/angular.svg" width=48> |
+|[![](./media/html5.svg")]|[![](./media/css3.svg)]|[![](./media/javascript.svg" width=)]|[![](./media/react.svg)]|[![](./media/redux.svg)]|[![](./media/gatsby.svg)] |[![](./media/angular.svg)] |
 
-**# Backend**
+### Backend
 | Node.JS | Express.JS | Next.js | Python | Django |
 |---|---|---|---|---|
-|<img src="./media/nodedotjs.svg" width="48">   |<img src="./media/express.svg" width="48">   |<img src="./media/nextdotjs.svg" width=48>   |[![](./media/python.svg)](#)   |<img src="./media/django.svg" width="48">   |  
+|[![](./media/nodedotjs.svg)]   |[![](./media/express.svg)]   |[![](./media/nextdotjs.svg")]   |[![](./media/python.svg)](# backend)   |[![](./media/django.svg)]   |  
 
-**Database**
+### Database
 | SQL | SQLite | PostgreSQL | Mongo |
 |---|---|---|---|
-|<img src="./media/microsoftsqlserver.svg" width="48">|<img src="./media/sqlite.svg" width="48">|<img src="./media/postgresql.svg" width="48">|<img src="./media/mongodb.svg" width="48">|
+|[![](./media/microsoftsqlserver.svg)]|[![](./media/sqlite.svg)]>|[![](./media/postgresql.svg)]|[![](./media/mongodb.svg")]|
 
-> ### :newspaper: -Follow Me
+> # :newspaper: -Follow Me
 [<img src="./media/linkedin.svg" width="48">](https://www.linkedin.com/in/rich-kevan/)
 [<img src="./media/twitter.svg" width="48">](https://twitter.com/intent/follow?screen_name=richkevan)
 [<img src="./media/twitch.svg" width="48">](https://www.twitch.tv/richkevan)
