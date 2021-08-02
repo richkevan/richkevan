@@ -16,7 +16,7 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 ### Frontend
 | HTML5 | CSS3 | Javascript | React | Redux | Gatsby | Angular |
 |---|---|---|---|---|---|---|
-|[![](./media/html5.svg")](#Frontend)|[![](./media/css3.svg)](#Frontend)|[![](./media/javascript.svg)](#Frontend)|[![](./media/react.svg)](#Frontend)|[![](./media/redux.svg)](#Frontend)|[![](./media/gatsby.svg)](#Frontend) |[![](./media/angular.svg)](#Frontend) |
+|[![](./media/html5.svg)](#Frontend)|[![](./media/css3.svg)](#Frontend)|[![](./media/javascript.svg)](#Frontend)|[![](./media/react.svg)](#Frontend)|[![](./media/redux.svg)](#Frontend)|[![](./media/gatsby.svg)](#Frontend) |[![](./media/angular.svg)](#Frontend) |
 
 ### Backend
 | Node.JS | Express.JS | Next.js | Python | Django |
