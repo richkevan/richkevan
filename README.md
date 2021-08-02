@@ -15,43 +15,43 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 ### Frontend
 | HTML5 | CSS3 | Javascript | React | Redux | Gatsby | Angular |
 |---|---|---|---|---|---|---|
-|[![](./media/html5.svg)](#Frontend)|[![](./media/css3.svg)](#Frontend)|[![](./media/javascript.svg)](#Frontend)|[![](./media/react.svg)](#Frontend)|[![](./media/redux.svg)](#Frontend)|[![](./media/gatsby.svg)](#Frontend) |[![](./media/angular.svg)](#Frontend) |
+|[![](./media/frontend/html5.svg)](#Frontend)|[![](./media/frontend/css3.svg)](#Frontend)|[![](./media/frontend/javascript.svg)](#Frontend)|[![](./media/frontend/react.svg)](#Frontend)|[![](./media/frontend/redux.svg)](#Frontend)|[![](./media/frontend/gatsby.svg)](#Frontend) |[![](./media/frontend/angular.svg)](#Frontend) |
 
 ### Backend
 | Node.JS | Express.JS | Next.js | Python | Django |
 |---|---|---|---|---|
-|[![](./media/nodedotjs.svg)](#Backend)   |[![](./media/express.svg)](#Backend)   |[![](./media/nextdotjs.svg)](#Backend)   |[![](./media/python.svg)](#Backend)  |[![](./media/django.svg)](#Backend)   |  
+|[![](./media/backend/nodedotjs.svg)](#Backend)   |[![](./media/backend/express.svg)](#Backend)   |[![](./media/backend/nextdotjs.svg)](#Backend)   |[![](./media/backend/python.svg)](#Backend)  |[![](./media/backend/django.svg)](#Backend)   |  
 
 ### Database
 | SQL | SQLite | PostgreSQL | Mongo |
 |---|---|---|---|
-|[![](./media/microsoftsqlserver.svg)](#Database)|[![](./media/sqlite.svg)](#Database)|[![](./media/postgresql.svg)](#Database)|[![](./media/mongodb.svg)](#Database)|
+|[![](./media/db/icrosoftsqlserver.svg)](#Database)|[![](./media/db/sqlite.svg)](#Database)|[![](./media/db/postgresql.svg)](#Database)|[![](./media/db/mongodb.svg)](#Database)|
 
 > # Tools & Applications
-### My IDEs
+### Dev Tools
 |VS Code|Jetbrains|Web Storm|Pycharm|Github|
 |---|---|---|---|---|
-|[![](./media/visualstudiocode.svg)](#Mytools)|[![](./media/jetbrains.svg)](#Mytools)|[![](./media/webstorm.svg)](#Mytools)|[![](./media/pycharm.svg)](#Mytools)|[![](./media/github.svg)](#Mytools)|
+|[![](./media/ide/visualstudiocode.svg)](#Mytools)|[![](./media/ide/jetbrains.svg)](#Mytools)|[![](./media/ide/webstorm.svg)](#Mytools)|[![](./media/ide/pycharm.svg)](#Mytools)|[![](./media/ide/github.svg)](#Mytools)|
 
 ### Learning
 |(:fire:)freecodecamp|Codewars|Udemy|
 |---|---|---|
-|[![](./media/freecodecamp.svg)](#learning)|[![](./media/codewars.svg)](#learning)|[![](./media/udemy.svg)](#learning)|
+|[![](./media/learning/freecodecamp.svg)](#learning)|[![](./media/learning/codewars.svg)](#learning)|[![](./media/learning/udemy.svg)](#learning)|
 
 ### Setup
 |Brand|Equipment|
 |:---|:---|
-|[![](./media/apple.svg)](#setup)| [2021 M1 Mac Mini 16gb ram MacOS Monterey](#) |
-|[![](./media/samsung.svg)](#setup)| [CHG49 49" Ultrawide](#)  |
-|[![](./media/ubiquiti.svg)](#setup)| [Dream Machine, USW Lite 16 POE, USW Flex, (3)USW Flex Lite](#) |
+|[![](./media/gear/apple.svg)](#setup)| [2021 M1 Mac Mini 16gb ram MacOS Monterey](#) |
+|[![](./media/gear/samsung.svg)](#setup)| [CHG49 49" Ultrawide](#)  |
+|[![](./media/gear/ubiquiti.svg)](#setup)| [Dream Machine, USW Lite 16 POE, USW Flex, (3)USW Flex Lite](#) |
 
 
 
 
 > # :newspaper: Follow Me
-[<img src="./media/linkedin.svg" width="48">](https://www.linkedin.com/in/rich-kevan/)
-[<img src="./media/twitter.svg" width="48">](https://twitter.com/intent/follow?screen_name=richkevan)
-[<img src="./media/twitch.svg" width="48">](https://www.twitch.tv/richkevan)
-[<img src="./media/devdotto.svg" width="48">](https://dev.to/richkevan)
+[<img src="./media/social/linkedin.svg" width="48">](https://www.linkedin.com/in/rich-kevan/)
+[<img src="./media/social/twitter.svg" width="48">](https://twitter.com/intent/follow?screen_name=richkevan)
+[<img src="./media/social/twitch.svg" width="48">](https://www.twitch.tv/richkevan)
+[<img src="./media/social/devdotto.svg" width="48">](https://dev.to/richkevan)
 
 
