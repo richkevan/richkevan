@@ -11,11 +11,7 @@ Some of my hobbies include
 
 I share my time and my passions with my fiance and 2 daughters :family_man_woman_girl_girl:
 
-> # :wrench: My Languages & Libraries
-### My Tools
-|VS Code|Jetbrains|Web Storm|Pycharm|
-|---|---|---|---|
-|[![](./media/visualstudiocode.svg)](#Mytools)|[![](./media/jetbrains.svg)](#Mytools)|[![](./media/webstorm.svg)](#Mytools)|[![](./media/pycharm.svg)](#Mytools)|
+> # :books: My Languages & Libraries
 ### Frontend
 | HTML5 | CSS3 | Javascript | React | Redux | Gatsby | Angular |
 |---|---|---|---|---|---|---|
@@ -31,7 +27,20 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 |---|---|---|---|
 |[![](./media/microsoftsqlserver.svg)](#Database)|[![](./media/sqlite.svg)](#Database)|[![](./media/postgresql.svg)](#Database)|[![](./media/mongodb.svg)](#Database)|
 
-> # :newspaper: -Follow Me
+> # Tools & Applications
+### My IDEs
+|VS Code|Jetbrains|Web Storm|Pycharm|Github|
+|---|---|---|---|---|
+|[![](./media/visualstudiocode.svg)](#Mytools)|[![](./media/jetbrains.svg)](#Mytools)|[![](./media/webstorm.svg)](#Mytools)|[![](./media/pycharm.svg)](#Mytools)|[![](./media/github.svg)](#Mytools)|
+
+### Learning
+|(:fire:)freecodecamp|Codewars|Udemy|
+|---|---|---|
+|[![](./media/freecodecamp.svg)](#Mytools)|[![](./media/codewars.svg)](#Mytools)|[![](./media/udemy.svg)](#Mytools)|
+
+
+
+> # :newspaper: Follow Me
 [<img src="./media/linkedin.svg" width="48">](https://www.linkedin.com/in/rich-kevan/)
 [<img src="./media/twitter.svg" width="48">](https://twitter.com/intent/follow?screen_name=richkevan)
 [<img src="./media/twitch.svg" width="48">](https://www.twitch.tv/richkevan)
