@@ -15,7 +15,7 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 
 **Frontend**
 | HTML5 | CSS3 | Javascript | React | Redux | Gatsby | Angular |
-|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |<img src="./media/html5.svg" width="48">|<img src="./media/css3.svg" width="48">|<img src="./media/javascript.svg" width="48">|<img src="./media/react.svg" width="48">|<img src="./media/redux.svg" width="48">|<img src="./media/gatsby.svg" width=48> |<img src="./media/angular.svg" width=48> |
 
 **Backend**
