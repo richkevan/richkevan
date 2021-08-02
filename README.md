@@ -1,7 +1,7 @@
 <img src="./media/avatar.png" width="800">
 
 ---
-> ### :information_desk_person: -About Me
+> # :information_desk_person: -About Me
 Thanks for checking out my Github. As you might have guessed I'm Rich and am a application/web engineer and amateur designer. I am from Oregon(GO :duck:) but live in the San Francisco Bay Area :bridge_at_night:  
 Some of my hobbies include  
 - Video Games :video_game: :joystick:  
@@ -11,17 +11,17 @@ Some of my hobbies include
 
 I share my time and my passions with my fiance and 2 daughters :family_man_woman_girl_girl:
 
-> ### :wrench: -My Languages & Libraries
+> # :wrench: -My Languages & Libraries
 
 **Frontend**
 | HTML5 | CSS3 | Javascript | React | Redux | Gatsby | Angular |
 |---|---|---|---|---|---|---|
 |<img src="./media/html5.svg" width="48">|<img src="./media/css3.svg" width="48">|<img src="./media/javascript.svg" width="48">|<img src="./media/react.svg" width="48">|<img src="./media/redux.svg" width="48">|<img src="./media/gatsby.svg" width=48> |<img src="./media/angular.svg" width=48> |
 
-**Backend**
+**# Backend**
 | Node.JS | Express.JS | Next.js | Python | Django |
 |---|---|---|---|---|
-|<img src="./media/nodedotjs.svg" width="48">   |<img src="./media/express.svg" width="48">   |<img src="./media/nextdotjs.svg" width=48>   |![](./media/python.svg)   |<img src="./media/django.svg" width="48">   |  
+|<img src="./media/nodedotjs.svg" width="48">   |<img src="./media/express.svg" width="48">   |<img src="./media/nextdotjs.svg" width=48>   |[![](./media/python.svg)](#)   |<img src="./media/django.svg" width="48">   |  
 
 **Database**
 | SQL | SQLite | PostgreSQL | Mongo |
