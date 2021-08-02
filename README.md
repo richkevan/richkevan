@@ -16,17 +16,17 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 ### Frontend
 | HTML5 | CSS3 | Javascript | React | Redux | Gatsby | Angular |
 |---|---|---|---|---|---|---|
-|[![](./media/html5.svg")](# Frontend)|[![](./media/css3.svg)](# Frontend)|[![](./media/javascript.svg)](# Frontend)|[![](./media/react.svg)](# Frontend)|[![](./media/redux.svg)](# Frontend)|[![](./media/gatsby.svg)](# Frontend) |[![](./media/angular.svg)](# Frontend) |
+|[![](./media/html5.svg")](#Frontend)|[![](./media/css3.svg)](#Frontend)|[![](./media/javascript.svg)](#Frontend)|[![](./media/react.svg)](#Frontend)|[![](./media/redux.svg)](#Frontend)|[![](./media/gatsby.svg)](#Frontend) |[![](./media/angular.svg)](#Frontend) |
 
 ### Backend
 | Node.JS | Express.JS | Next.js | Python | Django |
 |---|---|---|---|---|
-|[![](./media/nodedotjs.svg)](# Backend)   |[![](./media/express.svg)](# Backend)   |[![](./media/nextdotjs.svg)](# Backend)   |[![](./media/python.svg)](# Backend)  |[![](./media/django.svg)](# Backend)   |  
+|[![](./media/nodedotjs.svg)](#Backend)   |[![](./media/express.svg)](#Backend)   |[![](./media/nextdotjs.svg)](#Backend)   |[![](./media/python.svg)](#Backend)  |[![](./media/django.svg)](#Backend)   |  
 
 ### Database
 | SQL | SQLite | PostgreSQL | Mongo |
 |---|---|---|---|
-|[![](./media/microsoftsqlserver.svg)](# Database)|[![](./media/sqlite.svg)](# Database)|[![](./media/postgresql.svg)](# Database)|[![](./media/mongodb.svg")](# Database)|
+|[![](./media/microsoftsqlserver.svg)](#Database)|[![](./media/sqlite.svg)](#Database)|[![](./media/postgresql.svg)](#Database)|[![](./media/mongodb.svg")](#Database)|
 
 > # :newspaper: -Follow Me
 [<img src="./media/linkedin.svg" width="48">](https://www.linkedin.com/in/rich-kevan/)
