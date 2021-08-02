@@ -25,7 +25,7 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 ### Database
 | SQL | SQLite | PostgreSQL | Mongo |
 |---|---|---|---|
-|[![](./media/db/icrosoftsqlserver.svg)](#Database)|[![](./media/db/sqlite.svg)](#Database)|[![](./media/db/postgresql.svg)](#Database)|[![](./media/db/mongodb.svg)](#Database)|
+|[![](./media/db/microsoftsqlserver.svg)](#Database)|[![](./media/db/sqlite.svg)](#Database)|[![](./media/db/postgresql.svg)](#Database)|[![](./media/db/mongodb.svg)](#Database)|
 
 > # Tools & Applications
 ### Dev Tools
