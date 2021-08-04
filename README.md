@@ -15,35 +15,35 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 ### Frontend
 | HTML5 | CSS3 | Javascript | React | Redux | Gatsby | Angular |
 |---|---|---|---|---|---|---|
-|[![](./media/frontend/html5.svg){: style="width:48px;"}](#Frontend)|[![](./media/frontend/css3.svg){: style="width:48px;"}](#Frontend)|[![](./media/frontend/javascript.svg){: style="width:48px;"}](#Frontend)|[![](./media/frontend/react.svg){: style="width:48px;"}](#Frontend)|[![](./media/frontend/redux.svg){: style="width:48px;"}](#Frontend)|[![](./media/frontend/gatsby.svg){: style="width:48px;"}](#Frontend) |[![](./media/frontend/angular.svg){: style="width:48px;"}](#Frontend) |
+|[<img src='./media/frontend/html5.svg' width='48'>](#Frontend)|[<img src='./media/frontend/css3.svg width='48'>](#Frontend)|[<img src='./media/frontend/javascript.svg width='48'>](#Frontend)|[<img src='./media/frontend/react.svg width='48'>](#Frontend)|[<img src='./media/frontend/redux.svg width='48'>](#Frontend)|[<img src='./media/frontend/gatsby.svg width='48'>](#Frontend) |[<img src='./media/frontend/angular.svg width='48'>](#Frontend) |
 
 ### Backend
 | Node.JS | Express.JS | Next.js | Python | Django |
 |---|---|---|---|---|
-|[![](./media/backend/nodedotjs.svg)](#Backend)   |[![](./media/backend/express.svg)](#Backend)   |[![](./media/backend/nextdotjs.svg)](#Backend)   |[![](./media/backend/python.svg)](#Backend)  |[![](./media/backend/django.svg)](#Backend)   |  
+|[<img src='./media/backend/nodedotjs.svg)](#Backend)   |[<img src='./media/backend/express.svg)](#Backend)   |[<img src='./media/backend/nextdotjs.svg)](#Backend)   |[<img src='./media/backend/python.svg)](#Backend)  |[<img src='./media/backend/django.svg)](#Backend)   |  
 
 ### Database
 | SQL | SQLite | PostgreSQL | Mongo |
 |---|---|---|---|
-|[![](./media/db/microsoftsqlserver.svg)](#Database)|[![](./media/db/sqlite.svg)](#Database)|[![](./media/db/postgresql.svg)](#Database)|[![](./media/db/mongodb.svg)](#Database)|
+|[<img src='./media/db/microsoftsqlserver.svg)](#Database)|[<img src='./media/db/sqlite.svg)](#Database)|[<img src='./media/db/postgresql.svg)](#Database)|[<img src='./media/db/mongodb.svg)](#Database)|
 
 > # Tools & Applications
 ### Dev Tools
 |VS Code|Jetbrains|Web Storm|Pycharm|Github|Digital Ocean|
 |---|---|---|---|---|---|
-|[![](./media/ide/visualstudiocode.svg)](#Mytools)|[![](./media/ide/jetbrains.svg)](#Mytools)|[![](./media/ide/webstorm.svg)](#Mytools)|[![](./media/ide/pycharm.svg)](#Mytools)|[![](./media/ide/github.svg)](#Mytools)|[![](./media/ide/digitalocean.svg)](#Mytools)|
+|[<img src='./media/ide/visualstudiocode.svg)](#Mytools)|[<img src='./media/ide/jetbrains.svg)](#Mytools)|[<img src='./media/ide/webstorm.svg)](#Mytools)|[<img src='./media/ide/pycharm.svg)](#Mytools)|[<img src='./media/ide/github.svg)](#Mytools)|[<img src='./media/ide/digitalocean.svg)](#Mytools)|
 
 ### Learning
 |(:fire:)freecodecamp|Codewars|Udemy|HumbleBundle|
 |---|---|---|---|
-|[![](./media/learning/freecodecamp.svg)](#learning)|[![](./media/learning/codewars.svg)](#learning)|[![](./media/learning/udemy.svg)](#learning)|[![](./media/learning/humblebundle.svg)](#learning)|
+|[<img src='./media/learning/freecodecamp.svg)](#learning)|[<img src='./media/learning/codewars.svg)](#learning)|[<img src='./media/learning/udemy.svg)](#learning)|[<img src='./media/learning/humblebundle.svg)](#learning)|
 
 ### Setup
 |Brand|Equipment|
 |:---|:---|
-|[![](./media/gear/apple.svg)](#setup)| [2021 M1 Mac Mini 16gb ram MacOS Monterey](#) |
-|[![](./media/gear/samsung.svg)](#setup)| [CHG49 49" Ultrawide](#)  |
-|[![](./media/gear/ubiquiti.svg)](#setup)| [Dream Machine, USW Lite 16 POE, USW Flex, (3)USW Flex Lite](#) |
+|[<img src='./media/gear/apple.svg)](#setup)| [2021 M1 Mac Mini 16gb ram MacOS Monterey](#) |
+|[<img src='./media/gear/samsung.svg)](#setup)| [CHG49 49" Ultrawide](#)  |
+|[<img src='./media/gear/ubiquiti.svg)](#setup)| [Dream Machine, USW Lite 16 POE, USW Flex, (3)USW Flex Lite](#) |
 
 
 
