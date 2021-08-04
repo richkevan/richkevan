@@ -29,9 +29,9 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 
 > # Tools & Applications
 ### Dev Tools
-|VS Code|Jetbrains|Web Storm|Pycharm|Github|
-|---|---|---|---|---|
-|[![](./media/ide/visualstudiocode.svg)](#Mytools)|[![](./media/ide/jetbrains.svg)](#Mytools)|[![](./media/ide/webstorm.svg)](#Mytools)|[![](./media/ide/pycharm.svg)](#Mytools)|[![](./media/ide/github.svg)](#Mytools)|
+|VS Code|Jetbrains|Web Storm|Pycharm|Github|Digital Ocean|
+|---|---|---|---|---|---|
+|[![](./media/ide/visualstudiocode.svg)](#Mytools)|[![](./media/ide/jetbrains.svg)](#Mytools)|[![](./media/ide/webstorm.svg)](#Mytools)|[![](./media/ide/pycharm.svg)](#Mytools)|[![](./media/ide/github.svg)](#Mytools)|[![](./media/ide/digitalocean.svg)](#Mytools)|
 
 ### Learning
 |(:fire:)freecodecamp|Codewars|Udemy|HumbleBundle|
