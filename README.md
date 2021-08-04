@@ -34,9 +34,9 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 |[![](./media/ide/visualstudiocode.svg)](#Mytools)|[![](./media/ide/jetbrains.svg)](#Mytools)|[![](./media/ide/webstorm.svg)](#Mytools)|[![](./media/ide/pycharm.svg)](#Mytools)|[![](./media/ide/github.svg)](#Mytools)|
 
 ### Learning
-|(:fire:)freecodecamp|Codewars|Udemy|
-|---|---|---|
-|[![](./media/learning/freecodecamp.svg)](#learning)|[![](./media/learning/codewars.svg)](#learning)|[![](./media/learning/udemy.svg)](#learning)|
+|(:fire:)freecodecamp|Codewars|Udemy|HumbleBundle|
+|---|---|---|---|
+|[![](./media/learning/freecodecamp.svg)](#learning)|[![](./media/learning/codewars.svg)](#learning)|[![](./media/learning/udemy.svg)](#learning)|[![](./media/learning/humblebundle.svg)](#learning)|
 
 ### Setup
 |Brand|Equipment|
