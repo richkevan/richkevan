@@ -20,30 +20,30 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 ### Backend
 | Node.JS | Express.JS | Next.js | Python | Django |
 |---|---|---|---|---|
-|[<img src='./media/backend/nodedotjs.svg)](#Backend)   |[<img src='./media/backend/express.svg)](#Backend)   |[<img src='./media/backend/nextdotjs.svg)](#Backend)   |[<img src='./media/backend/python.svg)](#Backend)  |[<img src='./media/backend/django.svg)](#Backend)   |  
+|[<img src='./media/backend/nodedotjs.svg' width='48'>](#Backend)   |[<img src='./media/backend/express.svg' width='48'>](#Backend)   |[<img src='./media/backend/nextdotjs.svg' width='48'>](#Backend)   |[<img src='./media/backend/python.svg' width='48'>](#Backend)  |[<img src='./media/backend/django.svg' width='48'>](#Backend)   |  
 
 ### Database
 | SQL | SQLite | PostgreSQL | Mongo |
 |---|---|---|---|
-|[<img src='./media/db/microsoftsqlserver.svg)](#Database)|[<img src='./media/db/sqlite.svg)](#Database)|[<img src='./media/db/postgresql.svg)](#Database)|[<img src='./media/db/mongodb.svg)](#Database)|
+|[<img src='./media/db/microsoftsqlserver.svg' width='48'>](#Database)|[<img src='./media/db/sqlite.svg' width='48'>](#Database)|[<img src='./media/db/postgresql.svg' width='48'>](#Database)|[<img src='./media/db/mongodb.svg' width='48'>](#Database)|
 
 > # Tools & Applications
 ### Dev Tools
 |VS Code|Jetbrains|Web Storm|Pycharm|Github|Digital Ocean|
 |---|---|---|---|---|---|
-|[<img src='./media/ide/visualstudiocode.svg)](#Mytools)|[<img src='./media/ide/jetbrains.svg)](#Mytools)|[<img src='./media/ide/webstorm.svg)](#Mytools)|[<img src='./media/ide/pycharm.svg)](#Mytools)|[<img src='./media/ide/github.svg)](#Mytools)|[<img src='./media/ide/digitalocean.svg)](#Mytools)|
+|[<img src='./media/ide/visualstudiocode.svg' width='48'>](#Mytools)|[<img src='./media/ide/jetbrains.svg' width='48'>](#Mytools)|[<img src='./media/ide/webstorm.svg' width='48'>](#Mytools)|[<img src='./media/ide/pycharm.svg' width='48'>](#Mytools)|[<img src='./media/ide/github.svg' width='48'>](#Mytools)|[<img src='./media/ide/digitalocean.svg' width='48'>](#Mytools)|
 
 ### Learning
 |(:fire:)freecodecamp|Codewars|Udemy|HumbleBundle|
 |---|---|---|---|
-|[<img src='./media/learning/freecodecamp.svg)](#learning)|[<img src='./media/learning/codewars.svg)](#learning)|[<img src='./media/learning/udemy.svg)](#learning)|[<img src='./media/learning/humblebundle.svg)](#learning)|
+|[<img src='./media/learning/freecodecamp.svg' width='48'>](#learning)|[<img src='./media/learning/codewars.svg' width='48'>](#learning)|[<img src='./media/learning/udemy.svg' width='48'>](#learning)|[<img src='./media/learning/humblebundle.svg' width='48'>](#learning)|
 
 ### Setup
 |Brand|Equipment|
 |:---|:---|
-|[<img src='./media/gear/apple.svg)](#setup)| [2021 M1 Mac Mini 16gb ram MacOS Monterey](#) |
-|[<img src='./media/gear/samsung.svg)](#setup)| [CHG49 49" Ultrawide](#)  |
-|[<img src='./media/gear/ubiquiti.svg)](#setup)| [Dream Machine, USW Lite 16 POE, USW Flex, (3)USW Flex Lite](#) |
+|[<img src='./media/gear/apple.svg' width='48'>](#setup)| [2021 M1 Mac Mini 16gb ram MacOS Monterey](#) |
+|[<img src='./media/gear/samsung.svg' width='48'>](#setup)| [CHG49 49" Ultrawide](#)  |
+|[<img src='./media/gear/ubiquiti.svg' width='48'>](#setup)| [Dream Machine, USW Lite 16 POE, USW Flex, (3)USW Flex Lite](#) |
 
 
 
