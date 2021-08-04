@@ -15,7 +15,7 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 ### Frontend
 | HTML5 | CSS3 | Javascript | React | Redux | Gatsby | Angular |
 |---|---|---|---|---|---|---|
-|[![](./media/frontend/html5.svg)](#Frontend)|[![](./media/frontend/css3.svg)](#Frontend)|[![](./media/frontend/javascript.svg)](#Frontend)|[![](./media/frontend/react.svg)](#Frontend)|[![](./media/frontend/redux.svg)](#Frontend)|[![](./media/frontend/gatsby.svg)](#Frontend) |[![](./media/frontend/angular.svg)](#Frontend) |
+|[![](./media/frontend/html5.svg){: style="width:48px;"}](#Frontend)|[![](./media/frontend/css3.svg){: style="width:48px;"}](#Frontend)|[![](./media/frontend/javascript.svg){: style="width:48px;"}](#Frontend)|[![](./media/frontend/react.svg){: style="width:48px;"}](#Frontend)|[![](./media/frontend/redux.svg){: style="width:48px;"}](#Frontend)|[![](./media/frontend/gatsby.svg){: style="width:48px;"}](#Frontend) |[![](./media/frontend/angular.svg){: style="width:48px;"}](#Frontend) |
 
 ### Backend
 | Node.JS | Express.JS | Next.js | Python | Django |
