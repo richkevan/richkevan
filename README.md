@@ -40,7 +40,7 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 
 ### Setup
 |Brand|Equipment|
-|::---:|::---:|
+|:---|:---|
 |[<img src='./media/gear/apple.svg' width='48'>](#setup)| [2021 M1 Mac Mini 16gb ram MacOS Monterey](#) |
 |[<img src='./media/gear/samsung.svg' width='48'>](#setup)| [CHG49 49" Ultrawide](#)  |
 |[<img src='./media/gear/ubiquiti.svg' width='48'>](#setup)| [Dream Machine, USW Lite 16 POE, USW Flex, (3)USW Flex Lite](#) |
