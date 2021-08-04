@@ -15,7 +15,7 @@ I share my time and my passions with my fiance and 2 daughters :family_man_woman
 ### Frontend
 | HTML5 | CSS3 | Javascript | React | Redux | Gatsby | Angular |
 |---|---|---|---|---|---|---|
-|[<img src='./media/frontend/html5.svg' width='48'>](#Frontend)|[<img src='./media/frontend/css3.svg width='48'>](#Frontend)|[<img src='./media/frontend/javascript.svg width='48'>](#Frontend)|[<img src='./media/frontend/react.svg width='48'>](#Frontend)|[<img src='./media/frontend/redux.svg width='48'>](#Frontend)|[<img src='./media/frontend/gatsby.svg width='48'>](#Frontend) |[<img src='./media/frontend/angular.svg width='48'>](#Frontend) |
+|[<img src='./media/frontend/html5.svg' width='48'>](#Frontend)|[<img src='./media/frontend/css3.svg' width='48'>](#Frontend)|[<img src='./media/frontend/javascript.svg' width='48'>](#Frontend)|[<img src='./media/frontend/react.svg' width='48'>](#Frontend)|[<img src='./media/frontend/redux.svg' width='48'>](#Frontend)|[<img src='./media/frontend/gatsby.svg' width='48'>](#Frontend) |[<img src='./media/frontend/angular.svg' width='48'>](#Frontend) |
 
 ### Backend
 | Node.JS | Express.JS | Next.js | Python | Django |
