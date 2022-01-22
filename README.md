@@ -6,9 +6,7 @@
 <a href="https://dev.to/richkevan"><img src="./media/social/devdotto.svg" width="28"></a>
 </div>
 
-![My Github Stats](https://github.com/richkevan/github-stats/blob/master/generated/overview.svg)
-
-![Top Languages](https://github.com/richkevan/github-stats/blob/master/generated/languages.svg)
+![My Github Stats](https://github.com/richkevan/github-stats/blob/master/generated/overview.svg)![Top Languages](https://github.com/richkevan/github-stats/blob/master/generated/languages.svg)
 
 
 # :computer: Latest Projects
