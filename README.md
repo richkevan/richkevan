@@ -2,11 +2,11 @@
 
 # :computer: Latest Projects
 
-[![Instagrab](https://github-readme-stats.vercel.app/api/pin/?username=richkevan&repo=instagrab)]()
+[![Instagrab](https://github-readme-stats.vercel.app/api/pin/?username=richkevan&repo=instagrab)](https://github.com/richkevan/instagrab)
 
-[![Mytube](https://github-readme-stats.vercel.app/api/pin/?username=richkevan&repo=mytube)]()
+[![Mytube](https://github-readme-stats.vercel.app/api/pin/?username=richkevan&repo=mytube)](https://github.com/richkevan/mytube)
 
-[![BMI](https://github-readme-stats.vercel.app/api/pin/?username=richkevan&repo=bodymet-web)]()
+[![BMI](https://github-readme-stats.vercel.app/api/pin/?username=richkevan&repo=bodymet-web)](https://github.com/richkevan/bodymet-web)
 
 <d style="display:flex;gap:15px;align-items:baseline;">
 <h1>Follow me on social</h1>
