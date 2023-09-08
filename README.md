@@ -8,6 +8,8 @@
 
 [![BMI](https://github-readme-stats.vercel.app/api/pin/?username=richkevan&repo=bodymet-web)](https://github.com/richkevan/bodymet-web)
 
+[![Firebase Oauth](https://github-readme-stats.vercel.app/api/pin/?username=richkevan&repo=firebase-oauth)](https://www.npmjs.com/package/oauth2server-firebase)
+
 <d style="display:flex;gap:15px;align-items:baseline;">
 <h1>Follow me on social</h1>
 <a href="https://richkevan.com"><img src="./media/social/earth-americas-solid.svg" width="40"></a>
