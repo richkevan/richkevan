@@ -3,7 +3,7 @@
 ||[<img src="./media/social/earth-americas-solid.svg" width="28"/>](https://richkevan.com)[<img src="./media/social/linkedin.svg" width="28">](https://www.linkedin.com/in/rich-kevan)||
 |---|---|---|
 
-![My Github Stats](https://github.com/richkevan/github-stats/blob/master/generated/overview.svg)![Top Languages](https://github.com/richkevan/github-stats/blob/master/generated/languages.svg)
+# :wave: Hi there
 
 <d style="display:flex;justify-content:center">
 <a href="https://richkevan.com"><img src="./media/social/earth-americas-solid.svg" width="40"></a>
