@@ -1,6 +1,6 @@
 <img src="./media/richkevan.svg"  alt="rich kevan's github" />
 
-||[<img src="./media/social/earth-americas-solid.svg" width="28"/>](https://richkevan.com)[<img src="./media/social/linkedin.svg" width="28">](https://www.linkedin.com/in/rich-kevan)||
+||[<img src="./media/social/earth-americas-solid.svg" width="28"/>](https://richkevan.com)||[<img src="./media/social/linkedin.svg" width="28">](https://www.linkedin.com/in/rich-kevan)||
 |---|---|---|
 
 # :wave: Hi there
