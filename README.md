@@ -1,4 +1,4 @@
-<img src="media/github-header-image.jpeg"  alt="rich kevan's github" />
+<img src="media/github-header.avif"  alt="rich kevan's github" />
 
 # :chart_with_upwards_trend: Stats
 <img src="https://myreadme.vercel.app/api/embed/richkevan?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
