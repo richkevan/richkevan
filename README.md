@@ -12,9 +12,11 @@
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=richkevan&repo=coderbyte_solutions)](https://www.npmjs.com/package/coderbyte_solutions)|<img src="https://github-readme-stats.vercel.app/api/top-langs?username=richkevan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />|
 
 
-
-<!-- ![Metrics](https://metrics.lecoq.io/richkevan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto) -->
-
+# :pencil: Learning Journey
+| | |
+|-|-|
+|[![Dotnet](./media/languages/dotnet.png)](https://github.com/richkevan/dotnet-learning-journey)|[![Golang](./media/languages/go.png)](https://github.com/richkevan/go-learning-journey)|
+| | |
 
 
 
