@@ -13,7 +13,7 @@
 
 
 # :pencil: Learning Journey
-|[![Dotnet](./media/languages/dotnet.png)](https://github.com/richkevan/dotnet-learning-journey) |[![Golang](./media/languages/go.png)](https://github.com/richkevan/go-learning-journey) |[![Flutter](./media/languages/flutter.png)](https://github.com/richkevan/flutter-learning-journey) |[![PHP/Laravel](./media/languages/php.png)](https://github.com/richkevan/php-learning-journey) |[![Swift](./media/languages/swift.png)](https://github.com/richkevan/swift-learning-journey) |
+|[![Dotnet](./media/languages/dotnet.png)](https://github.com/richkevan/dotnet-learning-journey) |[![Golang](./media/languages/go.png)](https://github.com/richkevan/go-learning-journey) |[![Flutter](./media/languages/Flutter.png)](https://github.com/richkevan/flutter-learning-journey) |[![PHP/Laravel](./media/languages/PHP.png)](https://github.com/richkevan/php-learning-journey) |[![Swift](./media/languages/Swift.png)](https://github.com/richkevan/swift-learning-journey) |
 |-|-|-|-|-|
 
 
