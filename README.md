@@ -50,13 +50,13 @@ and training for asset management software.
 
 ## Education
 
-  - ### Okta Certified Administrator
-    - __Okta__
+- ### Okta Certified Administrator
+  - __Okta__
 
 
-  - ### Okta Certified Professional
-    - __Okta__
+- ### Okta Certified Professional
+  - __Okta__
 
 
-  - ### Certificate Full Stack Development
-    - __Southern New Hampshire University__
+- ### Certificate Full Stack Development
+  - __Southern New Hampshire University__
