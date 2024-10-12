@@ -9,7 +9,7 @@ A highly experienced full stack engineer, with 5 years of experience in software
 
 ## Skills
 
-| Javascript<br>Typescript<br>React<br>Next.js<br>Node | Python<br>Django<br>SQL & NoSQL<br>API Development<br>Okta/IAM | Management<br>Collaboration<br>Integration<br>Documentation<br>Training  |
+| Javascript<br>Typescript<br>React<br>Node<br>Restful APIs | Python<br>Django<br>SQL/NoSQL Database<br>API Design<br>Okta/IAM | Collaboration<br>Communication<br>Problem Solving<br>Adaptability<br>Curiosity  |
 |---|---|---|
 
 ## Work Experience
@@ -60,22 +60,3 @@ and training for asset management software.
 
   - ### Certificate Full Stack Development
     - __Southern New Hampshire University__
-
-<style>
-  p.title{
-    font-size: 2em;
-    line-height: .5;
-  }
-
-  div.heading{
-    width: 100%;
-    border-bottom: 15px double white;
-  }
-  
-
-  div.cert{
-    width: 100%;
-    border-bottom: 2.5px solid white;
-    margin-bottom: 25px;
-  }
-</style>
